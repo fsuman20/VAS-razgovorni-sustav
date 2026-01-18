@@ -1,0 +1,32 @@
+VARAŽDIN — KULTURA, INSTITUCIJE I DOGAĐAJI (mini-korpus)
+
+Kulturne i obrazovne institucije (orijentacijski popis)
+- Gradski muzej Varaždin (muzejske zbirke i izložbe povezane s baštinom grada).
+- Arhivska građa i gradske ustanove (povijesni arhivski fondovi i čuvaonice).
+- Gradska knjižnica (osnovana početkom 20. stoljeća; relevantna kao javna kulturna ustanova).
+- Kazališna tradicija (ustanova kazališta u 19. stoljeću; stalna zgrada iz 19. stoljeća).
+- Visoko obrazovanje: Fakultet organizacije i informatike (FOI) te Geotehnički fakultet (sastavnice Sveučilišta u Zagrebu u Varaždinu).
+
+Varaždinske barokne večeri (VBV)
+- Festival barokne / rane glazbe koji se održava u Varaždinu od 1971.
+- Program se veže uz ambijente grada (crkve, palače, dvorci) i naglašava “autentičnost” okruženja i izvedbe (povijesni instrumenti / praksa rane glazbe).
+- Ideja festivala uobličena je krajem 1960-ih, a festival se s vremenom širi i izvan granica grada (koncerti u širem sjeverozapadnom području).
+
+Špancirfest
+- Ulični festival koji pretvara povijesnu jezgru u veliku pozornicu na otvorenom.
+- Uobičajene sastavnice: koncerti, ulični performansi, radionice, sadržaji za djecu, predstave, izložbe i gastro ponuda.
+- Organizacijski naglasak: programi po zonama/pozornicama u centru grada; prema službenim opisima festival privlači velik broj posjetitelja (red veličine stotine tisuća).
+
+Zašto su ova dva događaja važna za “grad kao izvor znanja”
+U kontekstu multi-agentnog asistenta s ograničenim izvorima, VBV i Špancirfest su dobri “provjerljivi činjenični blokovi”:
+- imaju službene stranice i dugogodišnju kontinuitetnu organizaciju,
+- vezani su uz prostor (lokacije i institucije u Varaždinu),
+- često se spominju u referentnim enciklopedijskim izvorima.
+
+Ključne riječi za pretragu
+VBV; Varaždinske barokne večeri; festival 1971; rane glazbe; Špancirfest; ulični festival; kulturne institucije; FOI Varaždin; Gradski muzej Varaždin.
+
+IZVORI (primarni / referentni)
+- Hrvatska enciklopedija (LZMK), natuknica “Varaždin” (institucije + spominjanje VBV).
+- Službena stranica “Varaždin Baroque Evenings – About festival” (osnivanje 1971, koncept i format festivala).
+- Službena stranica Špancirfesta (opis programa i karakter festivala).
